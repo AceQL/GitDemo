@@ -23,11 +23,6 @@ public class SampleClass {
 		
 		// c
 		
-		// x
-		
-		// y
-		
-		// z
 		
 		
 		
